@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Debarpita Dutta
 =======================================================================================================================================
 
-Data Analyst and Bioengineer
+Product Analyst Analyst and Bioengineer
 ----------------------------
 
 I have been coding for at least 3 years coming from a non-CS background. Have mastered the skill of coding in Python, JAVA, JS, and MATLAB. Analyzing is my second nature, which puts no doubt why I chose to analyze data and take a different approach to storytelling. However, what entices me is data science and entrepreneurship. Having you all on this journey with me is very exciting
